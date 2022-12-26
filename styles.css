@@ -44,7 +44,7 @@ textarea{
 
 .container{
     border: 6px solid #00467F;
-    border-style:double;
+    border-style:ridge;
     border-radius: 40px;
     margin: 25px;
     width: 50%;
